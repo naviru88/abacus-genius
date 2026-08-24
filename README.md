@@ -13,6 +13,6 @@ Web Application of AbacusGenius-1.0 (Arduino based Smart Abacus device)
 ● Motivation: Show progress to motivate children.
 
 
-## ➢ Technologies used: HTML, CSS, JS, MQTT (Hive MQ)
-## ➢ Hosted on: Tiiny.host
-## ➢ Link to website: https://abacusgenius.tiiny.site
+### ➢ Technologies used: HTML, CSS, JS, MQTT (Hive MQ)
+### ➢ Hosted on: Tiiny.host
+### ➢ Link to website: https://abacusgenius.tiiny.site
