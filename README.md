@@ -15,4 +15,4 @@ Web Application of AbacusGenius-1.0 (Arduino based Smart Abacus device)
 
 ### ➢ Technologies used: HTML, CSS, JS, MQTT (Hive MQ)
 ### ➢ Hosted on: Tiiny.host
-### ➢ Link to website: https://abacusgenius.tiiny.site
+### ➢ Link to website: [https://abacusgenius.tiiny.site](https://abacusgenius2.tiiny.site/)
